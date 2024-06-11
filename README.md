@@ -5,6 +5,7 @@ Official implementation of ['PointeNet: A Lightweight Framework for Effective an
 The paper has been accepted by **Computer Aided Geometric Design** 🔥.
 
 ## News
+* The presentation slides for GMP2024 have been uploaded. 📌.
 * The code of PointeNet has been released 📌.
 
 ## Introduction
