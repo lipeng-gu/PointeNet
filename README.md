@@ -2,7 +2,7 @@
 
 Official implementation of ['PointeNet: A Lightweight Framework for Effective and Efficient Point Cloud Analysis'](https://www.sciencedirect.com/science/article/abs/pii/S0167839624000451).
 
-The paper has been accepted by **Computer Aided Geometric Design** 🔥.
+The paper has been accepted by **Computer Aided Geometric Design** and GMP2024🔥.
 
 ## News
 * The presentation slides for GMP2024 have been uploaded. 📌.
